@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class Author extends Component {
 
   fonctionAuClic() {
-    console.log('Captain Obvious'); 
+    alert('Captain Obvious'); 
   }
 
   render() {
